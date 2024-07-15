@@ -1,5 +1,4 @@
 # Find Your Glow
-![Find Your Glow Logo]("C:\Users\yogen\Downloads\_f60da7c7-c92c-4715-a5c4-53b933e283f3.jpg")
 
 **Find Your Glow** is an AI-based model designed to analyze skin and color. This tool provides insights into skin tones and suggests suitable colors that enhance natural beauty.
 
